@@ -23,11 +23,10 @@ For today's lab assignment, you will work independently to create a personal por
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
 ```
-Number and name of feature: ________________________________
+Number and name of feature: Refactor The CSS
 
-Estimate of time needed to complete: _____
-
-Start time: _____
+Estimate of time needed to complete: 45min
+Start time: 3:00
 
 Finish time: _____
 
@@ -54,6 +53,15 @@ Then the portfolio contents should be displayed
   - You may decide how many files to include, but at the minimum should include  `base.css`, `layout.css`, and `modules.css`. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a `modules` folder, if you feel that the code needs to be organized in that manner.
 
 ### Feature #2: Modify the contents
+
+Number and name of feature: Modify the Contents
+
+Estimate of time needed to complete:
+Start time:
+
+Finish time: _____
+
+Actual time needed to complete: _____
 
 #### Why are we implementing this feature?
 
