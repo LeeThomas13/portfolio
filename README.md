@@ -60,9 +60,10 @@ Estimate of time needed to complete: 2 Hours
 
 Start time: 3:40pm
 
-Finish time: _____
+Finish time: 6:53pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 3 hours 13 minutes
+(took a break on this and worked on other assignments. True completion time was around 30min)
 
 #### Why are we implementing this feature?
 
