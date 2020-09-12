@@ -26,11 +26,11 @@ For each of the features listed below, make an estimate of the time it will take
 Number and name of feature: Refactor The CSS
 
 Estimate of time needed to complete: 45min
-Start time: 3:00
+Start time: 3:00pm
 
-Finish time: _____
+Finish time: 3:36pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 36min
 ```
 
 Add this information to your README.
@@ -56,8 +56,9 @@ Then the portfolio contents should be displayed
 
 Number and name of feature: Modify the Contents
 
-Estimate of time needed to complete:
-Start time:
+Estimate of time needed to complete: 2 Hours
+
+Start time: 3:40pm
 
 Finish time: _____
 
