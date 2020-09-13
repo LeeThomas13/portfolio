@@ -58,6 +58,7 @@ a {
     outline: 0;
 }
 
+
 sub {
     position: relative;
     top: 0.5em;
@@ -612,3 +613,4 @@ ul.icons {
         .icon > .label {
             display: none;
         }
+
