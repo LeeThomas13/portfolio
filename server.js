@@ -2,7 +2,6 @@
 
 // this will bring in my express libraray
 const express = require('express');
-
 // bring in the dotenv library
 // the job of this library is to find the .env file and get the variables out of it so we can use them in our JS file
 require('dotenv').config();
@@ -14,7 +13,7 @@ const app = express();
 app.use(express.static('./public'));
 
 // the dotenv library lets us grab the PORT var from the .env using the magic words process.env.variableName
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 3000;
  
 // app.get('/', function (request, response) {
 //   response.send('Hello World');
