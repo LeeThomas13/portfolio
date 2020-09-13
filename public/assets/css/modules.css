@@ -1,5 +1,5 @@
 input, textarea, select {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
@@ -56,6 +56,10 @@ a {
     -ms-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
     transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
     outline: 0;
+}
+
+#gamer-setup {
+    max-width: 750px;
 }
 
 
